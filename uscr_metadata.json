@@ -1,0 +1,10 @@
+{
+  "name": "Pengu Coin",
+  "symbol": "Pengu",
+  "description": "Digital asset issued inside the U.S. Crypto Reserve ecosystem.",
+  "image": "https://raw.githubusercontent.com/BTCro12/U.S.-Crypto-Reserve/main/logo.png",
+  "tags": ["uscr", "utility"],
+  "extensions": {
+    "website": "https://example.com"
+  }
+}
